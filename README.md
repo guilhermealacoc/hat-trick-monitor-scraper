@@ -1,2 +1,2 @@
-#  Design Patterns in TS and Node
-A collection of studies about Design Patterns in TS and Node
+#  Repositorio do projeto de monitorador de hat tricks no futebol
+
